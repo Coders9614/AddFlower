@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddFlower", "AddFlower\AddFlower.csproj", "{9A409B54-6D59-4AC6-A520-4350D1B8F331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A409B54-6D59-4AC6-A520-4350D1B8F331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A409B54-6D59-4AC6-A520-4350D1B8F331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A409B54-6D59-4AC6-A520-4350D1B8F331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A409B54-6D59-4AC6-A520-4350D1B8F331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC13DDC9-1CF1-472B-B656-1517543F38D1}
+	EndGlobalSection
+EndGlobal
